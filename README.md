@@ -1,9 +1,9 @@
 # AECN
 In the strange and variable land of Kentucky, there is a childcare crisis. Seeking to address this problem is the Family Child Care Network of Kentucky. Within this Network, there are five different organizations focusing on different parts of the state. This project focuses on a group of KY counties within one those organizations, the Appalachian Early Childhood Network. 
 
-The Appalachian Early Childhood Network (AECN) covers 46 counties, which is broken up into two groups: the Cumberland Region and the Eastern Mountian Region. Currently, this project--initiated and developed as part of my learning with Code:Kentucky--focuses on the 28 counties if the Eastern Mountian Region, where the crisis of childcare deserts is most severe. 
+The Appalachian Early Childhood Network (AECN) covers 46 counties, which is broken up into two groups: the Cumberland Region and the Eastern Mountian Region. Currently, this project--initiated and developed as part of my learning with Code:Kentucky--focuses on the 28 counties of the Eastern Mountian Region, where the crisis of childcare deserts is most severe. 
 
-Using data collected from kynect.com and the US Census, this project seeks to identify where the childcare deserts are located in Eastern Kentucky. It also seeks to illustrate a comprehensive picture of the Eastern Mountain Region counties as a group, highlighting potential challenges. Hopefully, with a more complete picture, audiences will have a better understanding of the obstacles that come with developing and supporting a robust network of quality early childcare options in the mountians of Eastern Kentucky. 
+Using data collected from kynect.com and the US Census, this project seeks to identify where the childcare deserts are located in Eastern Kentucky. It also seeks to illustrate a comprehensive picture of the Eastern Mountain Region counties as a group, highlighting their unique challenges. Hopefully, with a more complete picture, audiences will have a better understanding of the obstacles that come with developing and supporting a robust network of quality early childcare options in the mountians of Eastern Kentucky. 
 
 ------------
 
